@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Thinking Fast and Slow",
+    "author": "Daniel Kahneman",
+    "pages": 416,
+    "year": 2011,
+    "review": "All good",
+    "rate": 5
+  },
+  {
+    "name": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "pages": 443,
+    "year": 2011,
+    "review": "An insightful journey through human history",
+    "rate": 5
+  },
+  {
+    "name": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "pages": 360,
+    "year": 1976,
+    "review": "A groundbreaking work in evolutionary biology",
+    "rate": 5
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "pages": 328,
+    "year": 1949,
+    "review": "A chilling dystopian novel that remains relevant",
+    "rate": 5
+  },
+  {
+    "name": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "pages": 374,
+    "year": 2008,
+    "review": "An engaging and thrilling dystopian story",
+    "rate": 5
+  }
+]
